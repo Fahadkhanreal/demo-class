@@ -16,7 +16,7 @@
 // ek hota ha rem or em is sa website responsive bnte ha yeh body ka size sa kam krta ha isko bad ma smajhaga jb real world application banyga .
 
 
-// ab hm background image lagana seekhanga to image ma png jpeg svg hmna pehla src sa uper public ka foler banaya usma images ka folder uska ander pic rakhe then ham class denga usma bg-[url('/images')] hm public ka path nhi deta hm sirf images ka folder banaya to next.js kehta ha public ka ander ap jo bhe folder baniooge bs uska path dena ha public ka nahi public ka folder ko vo khud detect krleta ha isliya hm direct images ke path deta ha. to hmre image show hojate ha agr na show ho to hm height denga to ajaayage bg image
+// ab hm background image lagana seekhanga to image ma png jpeg svg hmna pehl -a src sa uper public ka foler banaya usma images ka folder uska ander pic rakhe then ham class denga usma bg-[url('/images')] hm public ka path nhi deta hm sirf images ka folder banaya to next.js kehta ha public ka ander ap jo bhe folder baniooge bs uska path dena ha public ka nahi public ka folder ko vo khud detect krleta ha isliya hm direct images ke path deta ha. to hmre image show hojate ha agr na show ho to hm height denga to ajaayage bg image
 
 
 
